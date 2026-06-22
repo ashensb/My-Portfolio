@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
-  // ඔයා කලින් හදපු අලුත් About, Contact සෙක්ෂන්ස් ඔක්කොම මෙනු එකට එකතු කරලා තියෙන්නේ
+  
   const menuItems = [
     { name: 'Home', href: '#home' },
     { name: 'About', href: '#about' },
@@ -29,7 +29,7 @@ const Header = () => {
               className='text-gray-400 hover:text-white transition duration-300 font-medium text-sm tracking-wide relative py-1 group'
             >
               {item.name}
-              {/* Hover කරද්දී යටින් ඇදෙන ලස්සන ඉර */}
+              
               <span className='absolute bottom-0 left-0 w-0 h-[2px] bg-gradient-to-r from-cyan-400 to-blue-500 transition-all duration-300 group-hover:w-full'></span>
             </a>
           ))}

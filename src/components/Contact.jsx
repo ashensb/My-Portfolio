@@ -40,18 +40,7 @@ const Contact = () => {
         </button>
       </form>
 
-      {/* Social Media Footer Icons */}
-      <div className='flex space-x-6 mt-16' data-aos='fade-up' data-aos-delay='300'>
-        <a href='#' className='w-11 h-11 bg-[#1f2937] border border-gray-800 rounded-full flex items-center justify-center text-gray-400 hover:text-white hover:border-cyan-500/50 transition duration-300'>
-          🌐 {/* මෙතනට Facebook/LinkedIn icon එකක් දාන්න පුළුවන් */}
-        </a>
-        <a href='#' className='w-11 h-11 bg-[#1f2937] border border-gray-800 rounded-full flex items-center justify-center text-gray-400 hover:text-white hover:border-cyan-500/50 transition duration-300'>
-          💻 {/* GitHub Icon */}
-        </a>
-        <a href='#' className='w-11 h-11 bg-[#1f2937] border border-gray-800 rounded-full flex items-center justify-center text-gray-400 hover:text-white hover:border-cyan-500/50 transition duration-300'>
-          💼 {/* LinkedIn Icon */}
-        </a>
-      </div>
+     
     </section>
   );
 };

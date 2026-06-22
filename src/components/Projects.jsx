@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Projects = () => {
-  // ඔයාගේ GitHub එකේ තියෙන ප්‍රොජෙක්ට් 2ක විස්තර සහිතව
+  
   const projectList = [
     {
       title: 'MERN Task Manager with DevOps',
