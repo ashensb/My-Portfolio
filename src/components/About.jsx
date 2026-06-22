@@ -19,9 +19,7 @@ const About = () => {
       {/* Description */}
       <div className='text-center max-w-3xl mb-16' data-aos='fade-up' data-aos-delay='100'>
         <p className='text-gray-400 text-lg md:text-xl leading-relaxed font-light tracking-wide'>
-          Hi! I'm <span className='text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-400 font-semibold'>Ashen</span>, a passionate Software & DevOps Engineer. 
-          I love building practical, scalable, and creative development solutions while mastering 
-          cloud infrastructure, deployment automation, and modern web frameworks.
+          Hi! I'm <span className='text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-400 font-semibold'>Ashen</span>, Software Engineering undergraduate proficient in building full-stack MERN applications and automating software workflows. Demonstrated hands-on experience in Docker containerization, AWS cloud deployment, and configuring automated CI/CD pipelines. Seeking an  opportunity to apply these development and operational skills to innovative real-world projects.
         </p>
       </div>
 
@@ -56,7 +54,7 @@ const About = () => {
                   <div className='w-2.5 h-2.5 rounded-full bg-cyan-400 ring-4 ring-cyan-400/20 group-hover/item:scale-125 transition-transform duration-300'></div>
                 </div>
                 <p className='text-gray-400 group-hover/item:text-gray-300 text-sm md:text-base font-light leading-relaxed transition-colors duration-300'>
-                  Currently expanding expertise in full-stack applications and automated software environments.
+                  Pursuing Software Engineering Degree: Currently reading for a Bachelor's degree in Software Engineering, focusing on advanced computing, algorithms, and software architecture.
                 </p>
               </div>
 
@@ -66,7 +64,7 @@ const About = () => {
                   <div className='w-2.5 h-2.5 rounded-full bg-blue-400 ring-4 ring-blue-400/20 group-hover/item:scale-125 transition-transform duration-300'></div>
                 </div>
                 <p className='text-gray-400 group-hover/item:text-gray-300 text-sm md:text-base font-light leading-relaxed transition-colors duration-300'>
-                  Completed and deployed multiple projects including cloud integrations, management systems, and utility tools.
+                  Full-Stack Development (MERN): Hands-on experience in building scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js) and designing efficient RESTful APIs.
                 </p>
               </div>
 
@@ -76,7 +74,7 @@ const About = () => {
                   <div className='w-2.5 h-2.5 rounded-full bg-purple-400 ring-4 ring-purple-400/20 group-hover/item:scale-125 transition-transform duration-300'></div>
                 </div>
                 <p className='text-gray-400 group-hover/item:text-gray-300 text-sm md:text-base font-light leading-relaxed transition-colors duration-300'>
-                  Hands-on experience with modern web development (MERN), DevOps practices, CI/CD pipelines, and cloud platform management.
+                  DevOps & Cloud Integration: Proficient in automating software workflows using Git/GitHub, containerizing applications with Docker, and establishing robust CI/CD pipelines.
                 </p>
               </div>
 
